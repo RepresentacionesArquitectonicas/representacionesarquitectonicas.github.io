@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18080" appversion="6.1.13" start="node2">
+  <panorama id="node2">
+    <input overlap="1" levelbiashidpi="1.000" width="600" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltilesize="510" height="600" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="600" preload="0" height="600" predecode="0"/>
+      <level width="300" preload="1" height="300" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0.818017">
+      <start projection="4" pan="24.69" fov="70" tilt="2.1"/>
+      <flyin projection="4" pan="29.23" fov="70" tilt="-1.64"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" datetime="" nodeid="node2" tags="Primer nivel" copyright="" info="" source="" customnodeid="" description="" author="" title="" heading="0.818017">
+      <mapcoords mapid="primernivel" x="0.781403" y_floorplan_percent="92.936" y="-2.31262" x_floorplan_percent="54.2421"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" background="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" height="20" wordwrap="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point02" url="{node7}" pan="38.09" skinid="ht_node" tilt="-0.27" description="" target="$fwd" title="Estaciuonamiento"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" zoomfov="20" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomin="0" softedge="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" rubberband="0" invertwheel="0" contextprojections="0" contextvr="1" lockedwheel="0" hideabout="0" lockedkeyboard="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" levelbiashidpi="1.000" width="600" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltilesize="510" height="600" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="600" preload="0" height="600" predecode="0"/>
+      <level width="300" preload="1" height="300" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="161.57" fov="74.47" tilt="-1.5"/>
+      <flyin projection="4" pan="148.1" fov="74.47" tilt="0.54"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" datetime="" nodeid="node7" tags="Primer nivel" copyright="" info="" source="" customnodeid="" description="" author="" title="" heading="0">
+      <mapcoords mapid="primernivel" x="0.43396" y_floorplan_percent="47.8477" y="-1.19064" x_floorplan_percent="30.1239"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" background="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" height="20" wordwrap="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point01" url="{node2}" pan="-220.35" skinid="ht_node" tilt="-0.15" description="" target="$fwd" title="Fachada principal"/>
+      <hotspot id="Point07" url="{node8}" pan="-174.08" skinid="ht_node" tilt="1.2" description="" target="" title="Entrada departamento"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" zoomfov="20" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomin="0" softedge="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" rubberband="0" invertwheel="0" contextprojections="0" contextvr="1" lockedwheel="0" hideabout="0" lockedkeyboard="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" levelbiashidpi="1.000" width="600" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltilesize="510" height="600" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="600" preload="0" height="600" predecode="0"/>
+      <level width="300" preload="1" height="300" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="4" pan="-3.08" fov="70" tilt="-3.42"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" datetime="" nodeid="node5" tags="Segundo nivel|terraza" copyright="" info="" source="" customnodeid="" description="" author="" title="" heading="0">
+      <mapcoords mapid="segundonivel" x="0.256805" y_floorplan_percent="60.9917" y="-1.52023" x_floorplan_percent="17.8265"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" background="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" height="20" wordwrap="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
+      <hotspot id="Point03" url="{node8}" pan="-35.23" skinid="ht_node" tilt="0" description="" target="$fwd" title="Entrada departamento"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" zoomfov="20" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomin="0" softedge="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" rubberband="0" invertwheel="0" contextprojections="0" contextvr="1" lockedwheel="0" hideabout="0" lockedkeyboard="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" levelbiashidpi="1.000" width="600" levelbias="0.400" levelingpitch="0" levelingroll="0" leveltilesize="510" height="600" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="600" preload="0" height="600" predecode="0"/>
+      <level width="300" preload="1" height="300" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="4" pan="4.81" fov="70" tilt="-2.39"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovstereographic="270" fov="120" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata comment="" latitude="" longitude="" datetime="" nodeid="node8" tags="Segundo nivel|terraza" copyright="" info="" source="" customnodeid="" description="" author="" title="" heading="0">
+      <mapcoords mapid="segundonivel" x="0.567169" y_floorplan_percent="43.3609" y="-1.08078" x_floorplan_percent="39.3708"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" background="1" border="1" bordercolor="0x000000" width="180" textalpha="1" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" height="20" wordwrap="1" enabled="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
+      <hotspot id="segundo nivel sala comedor" url="{node5}" pan="144.77" skinid="ht_node" tilt="0" description="" target="$fwd" title="Sala comedor"/>
+      <hotspot id="Point05" url="{node7}" pan="-173.13" skinid="ht_node" tilt="-6.53" description="" target="" title="estacionamiento"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendtime="1" zoomfov="20" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomin="0" softedge="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control speedwheel="1" rubberband="0" invertwheel="0" contextprojections="0" contextvr="1" lockedwheel="0" hideabout="0" lockedkeyboard="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboardzoom="0" simulatemass="1" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" latitude="" longitude="" datetime="" nodeid="master" tags="" copyright="" info="" source="" customnodeid="" description="" author="" title="" heading="0"/>
+  </masternode>
+  <map type="file" id="primernivel" floorplannorth="0" width="1049" transparent="0" tileformat="png" height="1812" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" title=""/>
+  <map type="file" id="segundonivel" floorplannorth="0" width="1049" transparent="0" tileformat="png" height="1815" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" title=""/>
+</tour>
